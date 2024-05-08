@@ -1,5 +1,5 @@
 ---
-name: "Deploy WordPress to WP Engine"
+name: "Deploy WordPress to WP Engine (node v20)"
 branding:
   icon: "upload-cloud"
   color: "blue"
